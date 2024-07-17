@@ -14,8 +14,6 @@ const App = () => {
       </>
       <>
     <DrillingOne />
-    <DrillingTwo />
-    <DrillingThree />
 </>
     </div>
   )
